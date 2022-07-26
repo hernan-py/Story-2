@@ -1,1 +1,2 @@
 story start
+hello man
